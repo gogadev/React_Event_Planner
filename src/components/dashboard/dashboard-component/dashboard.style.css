@@ -1,0 +1,15 @@
+.dashboard-container {
+  width: 80vw;
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  margin: 1rem auto;
+  background: #ededed;
+  border: 1px solid lightgrey;
+  border-bottom-left-radius: 2.5rem;
+  border-top-right-radius: 2.5rem;
+}
+
+.event-list {
+  margin: 1.5rem auto;
+}

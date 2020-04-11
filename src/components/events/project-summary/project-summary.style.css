@@ -1,0 +1,31 @@
+.event-card {
+  border: 3px solid #d5d5d5;
+  padding: 0.5rem 15rem;
+  text-align: center;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  letter-spacing: 0.2rem;
+  border-bottom: 4px solid lightgrey;
+  margin: 1.2rem auto;
+}
+
+.info {
+  font-size: 1.2rem;
+  margin: 0.3rem;
+}
+
+.info span {
+  color: grey;
+}
+
+.fa-feather-alt {
+  opacity: 0.8;
+}
+
+.btn {
+  margin: 0.5rem auto;
+  padding: 0.2rem 0.4rem;
+  cursor: pointer;
+}

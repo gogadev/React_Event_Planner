@@ -1,0 +1,13 @@
+.event-section {
+  width: 80%;
+  padding: 1rem;
+  margin: 2rem auto;
+  background: #ededed;
+  border-bottom-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+}
+
+.back {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,23 @@
+.menu-links {
+  font-size: 1.5rem;
+  text-align: center;
+  margin: 1rem auto;
+}
+
+.menu-links li {
+  margin: 0.5rem;
+  letter-spacing: 0.1rem;
+}
+
+.menu-name {
+  margin: 0.1rem auto;
+  width: 25%;
+  border: 3px solid lightgrey;
+  padding: 0.5rem 1rem;
+  border-bottom-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+  letter-spacing: 5px;
+  text-transform: capitalize;
+  color: #d5d5d5;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.8);
+}
